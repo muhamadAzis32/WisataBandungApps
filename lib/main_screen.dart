@@ -3,6 +3,8 @@ import 'package:wisatabandung/detail_screen.dart';
 import 'package:wisatabandung/model/tourism_place.dart';
 
 class MainScreen extends StatelessWidget {
+  const MainScreen({super.key});
+
   // const MainScreen({Key? key}) : super(key: key);
 
   @override
